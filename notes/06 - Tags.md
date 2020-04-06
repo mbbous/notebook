@@ -1,8 +1,8 @@
 ---
-tags: [Basics, Notebooks/Python, Notebooks/Tutorial]
+tags: [Basics, Notebooks/Tutorial]
 title: 06 - Tags
 created: '2019-01-28T19:46:36.681Z'
-modified: '2020-04-06T00:50:22.487Z'
+modified: '2020-04-06T00:59:27.792Z'
 ---
 
 # 06 - Tags
