@@ -1,8 +1,9 @@
 ---
+favorited: true
 tags: [Basics, Notebooks/Tutorial]
 title: 05 - Notes
 created: '2019-04-30T21:17:06.073Z'
-modified: '2019-07-27T15:38:12.690Z'
+modified: '2020-04-06T00:33:27.679Z'
 ---
 
 # 05 - Notes

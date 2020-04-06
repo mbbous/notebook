@@ -1,9 +1,10 @@
 ---
 attachments: [icon_small.png]
+deleted: true
 tags: [Intermediate, Notebooks/Tutorial]
 title: '10 - Linking Attachments, Notes, Tags and Searches'
 created: '2018-12-27T18:53:01.510Z'
-modified: '2019-06-06T12:20:11.040Z'
+modified: '2020-04-06T00:56:53.490Z'
 ---
 
 # 10 - Linking Attachments, Notes, Tags and Searches

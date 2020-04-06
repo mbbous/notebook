@@ -2,7 +2,7 @@
 tags: [Intermediate, Notebooks/Tutorial]
 title: 07 - Shortcuts
 created: '2019-05-31T20:27:53.881Z'
-modified: '2019-06-06T12:20:10.999Z'
+modified: '2020-04-06T00:57:08.449Z'
 ---
 
 # 07 - Shortcuts

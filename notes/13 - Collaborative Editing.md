@@ -1,8 +1,9 @@
 ---
+deleted: true
 tags: [Advanced, Notebooks/Tutorial]
 title: 13 - Collaborative Editing
 created: '2018-12-16T23:18:06.181Z'
-modified: '2019-06-06T12:20:11.081Z'
+modified: '2020-04-06T00:54:21.426Z'
 ---
 
 # 13 - Collaborative Editing
